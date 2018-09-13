@@ -1,0 +1,50 @@
+#caja1 {
+    margin-left: 0px;
+
+}
+
+
+#caja_mayor{
+	width: 1050px;
+	background-color: white;
+}
+
+
+#formulario{
+	width: 1050px;
+	background-color: white;
+}
+
+#sub{
+	width: 1200px;
+}
+
+#menu{
+	margin-top: -12px;
+}
+
+#registro{
+	margin-top: 0px;
+}
+
+#enlaces{
+	background-color: white;
+	font-size: 17px;
+}
+
+
+#nombre{
+	margin-top: -70px;
+
+}
+
+#buscar{
+	margin-left: 730px;
+	margin-top: 30px;
+}
+
+#busqueda{
+	border-radius: 5px;
+}
+
+
